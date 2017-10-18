@@ -1,0 +1,53 @@
+D:\传智讲课\0413班\OA\OA项目，第一天Asp.netMVC原理，框架搭建\CZBK.ItcastOA\CZBK.ItcastOA.Common\bin\Debug\CZBK.ItcastOA.Common.dll
+D:\传智讲课\0413班\OA\OA项目，第一天Asp.netMVC原理，框架搭建\CZBK.ItcastOA\CZBK.ItcastOA.Common\bin\Debug\CZBK.ItcastOA.Common.pdb
+D:\传智讲课\0413班\OA\OA项目，第一天Asp.netMVC原理，框架搭建\CZBK.ItcastOA\CZBK.ItcastOA.Common\obj\Debug\CZBK.ItcastOA.Common.csprojResolveAssemblyReference.cache
+D:\传智讲课\0413班\OA\OA项目，第一天Asp.netMVC原理，框架搭建\CZBK.ItcastOA\CZBK.ItcastOA.Common\obj\Debug\CZBK.ItcastOA.Common.dll
+D:\传智讲课\0413班\OA\OA项目，第一天Asp.netMVC原理，框架搭建\CZBK.ItcastOA\CZBK.ItcastOA.Common\obj\Debug\CZBK.ItcastOA.Common.pdb
+D:\传智讲课\0413班\OA\OA项目，第二天用户管理，JqueryEasyUi,Spring.Net\CZBK.ItcastOA\CZBK.ItcastOA.Common\bin\Debug\CZBK.ItcastOA.Common.dll
+D:\传智讲课\0413班\OA\OA项目，第二天用户管理，JqueryEasyUi,Spring.Net\CZBK.ItcastOA\CZBK.ItcastOA.Common\bin\Debug\CZBK.ItcastOA.Common.pdb
+D:\传智讲课\0413班\OA\OA项目，第二天用户管理，JqueryEasyUi,Spring.Net\CZBK.ItcastOA\CZBK.ItcastOA.Common\obj\Debug\CZBK.ItcastOA.Common.dll
+D:\传智讲课\0413班\OA\OA项目，第二天用户管理，JqueryEasyUi,Spring.Net\CZBK.ItcastOA\CZBK.ItcastOA.Common\obj\Debug\CZBK.ItcastOA.Common.pdb
+D:\传智讲课\0413班\OA\OA项目，第二天用户管理，JqueryEasyUi,Spring.Net\CZBK.ItcastOA\CZBK.ItcastOA.Common\obj\Debug\CZBK.ItcastOA.Common.csprojResolveAssemblyReference.cache
+D:\传智讲课\0413班\OA\OA项目，第三天Spring.Net.Log4Net,Memcache\CZBK.ItcastOA\CZBK.ItcastOA.Common\bin\Debug\CZBK.ItcastOA.Common.dll
+D:\传智讲课\0413班\OA\OA项目，第三天Spring.Net.Log4Net,Memcache\CZBK.ItcastOA\CZBK.ItcastOA.Common\bin\Debug\CZBK.ItcastOA.Common.pdb
+D:\传智讲课\0413班\OA\OA项目，第三天Spring.Net.Log4Net,Memcache\CZBK.ItcastOA\CZBK.ItcastOA.Common\obj\Debug\CZBK.ItcastOA.Common.dll
+D:\传智讲课\0413班\OA\OA项目，第三天Spring.Net.Log4Net,Memcache\CZBK.ItcastOA\CZBK.ItcastOA.Common\obj\Debug\CZBK.ItcastOA.Common.pdb
+D:\传智讲课\0413班\OA\OA项目,第四天Memcache，Json.net,OA介绍以及整体布局\CZBK.ItcastOA\CZBK.ItcastOA.Common\bin\Debug\CZBK.ItcastOA.Common.dll
+D:\传智讲课\0413班\OA\OA项目,第四天Memcache，Json.net,OA介绍以及整体布局\CZBK.ItcastOA\CZBK.ItcastOA.Common\bin\Debug\CZBK.ItcastOA.Common.pdb
+D:\传智讲课\0413班\OA\OA项目,第四天Memcache，Json.net,OA介绍以及整体布局\CZBK.ItcastOA\CZBK.ItcastOA.Common\bin\Debug\Commons.dll
+D:\传智讲课\0413班\OA\OA项目,第四天Memcache，Json.net,OA介绍以及整体布局\CZBK.ItcastOA\CZBK.ItcastOA.Common\bin\Debug\log4net.dll
+D:\传智讲课\0413班\OA\OA项目,第四天Memcache，Json.net,OA介绍以及整体布局\CZBK.ItcastOA\CZBK.ItcastOA.Common\bin\Debug\Memcached.ClientLibrary.dll
+D:\传智讲课\0413班\OA\OA项目,第四天Memcache，Json.net,OA介绍以及整体布局\CZBK.ItcastOA\CZBK.ItcastOA.Common\bin\Debug\Newtonsoft.Json.dll
+D:\传智讲课\0413班\OA\OA项目,第四天Memcache，Json.net,OA介绍以及整体布局\CZBK.ItcastOA\CZBK.ItcastOA.Common\bin\Debug\Newtonsoft.Json.xml
+D:\传智讲课\0413班\OA\OA项目,第四天Memcache，Json.net,OA介绍以及整体布局\CZBK.ItcastOA\CZBK.ItcastOA.Common\obj\Debug\CZBK.ItcastOA.Common.dll
+D:\传智讲课\0413班\OA\OA项目,第四天Memcache，Json.net,OA介绍以及整体布局\CZBK.ItcastOA\CZBK.ItcastOA.Common\obj\Debug\CZBK.ItcastOA.Common.pdb
+D:\传智讲课\0413班\OA\OA项目,第四天Memcache，Json.net,OA介绍以及整体布局\CZBK.ItcastOA\CZBK.ItcastOA.Common\obj\Debug\CZBK.ItcastOA.Common.csprojResolveAssemblyReference.cache
+D:\传智讲课\0413班\OA\OA项目,第五天T4，角色权限管理，用户角色权限分配\CZBK.ItcastOA\CZBK.ItcastOA.Common\bin\Debug\CZBK.ItcastOA.Common.dll
+D:\传智讲课\0413班\OA\OA项目,第五天T4，角色权限管理，用户角色权限分配\CZBK.ItcastOA\CZBK.ItcastOA.Common\bin\Debug\CZBK.ItcastOA.Common.pdb
+D:\传智讲课\0413班\OA\OA项目,第五天T4，角色权限管理，用户角色权限分配\CZBK.ItcastOA\CZBK.ItcastOA.Common\bin\Debug\Commons.dll
+D:\传智讲课\0413班\OA\OA项目,第五天T4，角色权限管理，用户角色权限分配\CZBK.ItcastOA\CZBK.ItcastOA.Common\bin\Debug\log4net.dll
+D:\传智讲课\0413班\OA\OA项目,第五天T4，角色权限管理，用户角色权限分配\CZBK.ItcastOA\CZBK.ItcastOA.Common\bin\Debug\Memcached.ClientLibrary.dll
+D:\传智讲课\0413班\OA\OA项目,第五天T4，角色权限管理，用户角色权限分配\CZBK.ItcastOA\CZBK.ItcastOA.Common\bin\Debug\Newtonsoft.Json.dll
+D:\传智讲课\0413班\OA\OA项目,第五天T4，角色权限管理，用户角色权限分配\CZBK.ItcastOA\CZBK.ItcastOA.Common\bin\Debug\Newtonsoft.Json.xml
+D:\传智讲课\0413班\OA\OA项目,第五天T4，角色权限管理，用户角色权限分配\CZBK.ItcastOA\CZBK.ItcastOA.Common\obj\Debug\CZBK.ItcastOA.Common.dll
+D:\传智讲课\0413班\OA\OA项目,第五天T4，角色权限管理，用户角色权限分配\CZBK.ItcastOA\CZBK.ItcastOA.Common\obj\Debug\CZBK.ItcastOA.Common.pdb
+D:\传智讲课\0413班\OA\OA项目,第六天用户权限分配，用户登录权限过滤\CZBK.ItcastOA\CZBK.ItcastOA.Common\bin\Debug\CZBK.ItcastOA.Common.dll
+D:\传智讲课\0413班\OA\OA项目,第六天用户权限分配，用户登录权限过滤\CZBK.ItcastOA\CZBK.ItcastOA.Common\bin\Debug\CZBK.ItcastOA.Common.pdb
+D:\传智讲课\0413班\OA\OA项目,第六天用户权限分配，用户登录权限过滤\CZBK.ItcastOA\CZBK.ItcastOA.Common\bin\Debug\Commons.dll
+D:\传智讲课\0413班\OA\OA项目,第六天用户权限分配，用户登录权限过滤\CZBK.ItcastOA\CZBK.ItcastOA.Common\bin\Debug\log4net.dll
+D:\传智讲课\0413班\OA\OA项目,第六天用户权限分配，用户登录权限过滤\CZBK.ItcastOA\CZBK.ItcastOA.Common\bin\Debug\Memcached.ClientLibrary.dll
+D:\传智讲课\0413班\OA\OA项目,第六天用户权限分配，用户登录权限过滤\CZBK.ItcastOA\CZBK.ItcastOA.Common\bin\Debug\Newtonsoft.Json.dll
+D:\传智讲课\0413班\OA\OA项目,第六天用户权限分配，用户登录权限过滤\CZBK.ItcastOA\CZBK.ItcastOA.Common\bin\Debug\Newtonsoft.Json.xml
+D:\传智讲课\0413班\OA\OA项目,第六天用户权限分配，用户登录权限过滤\CZBK.ItcastOA\CZBK.ItcastOA.Common\obj\Debug\CZBK.ItcastOA.Common.dll
+D:\传智讲课\0413班\OA\OA项目,第六天用户权限分配，用户登录权限过滤\CZBK.ItcastOA\CZBK.ItcastOA.Common\obj\Debug\CZBK.ItcastOA.Common.pdb
+E:\2015-06-29 OA项目第六天\CZBK.ItcastOA\CZBK.ItcastOA.Common\bin\Debug\CZBK.ItcastOA.Common.dll
+E:\2015-06-29 OA项目第六天\CZBK.ItcastOA\CZBK.ItcastOA.Common\bin\Debug\CZBK.ItcastOA.Common.pdb
+E:\2015-06-29 OA项目第六天\CZBK.ItcastOA\CZBK.ItcastOA.Common\bin\Debug\Commons.dll
+E:\2015-06-29 OA项目第六天\CZBK.ItcastOA\CZBK.ItcastOA.Common\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\2015-06-29 OA项目第六天\CZBK.ItcastOA\CZBK.ItcastOA.Common\bin\Debug\log4net.dll
+E:\2015-06-29 OA项目第六天\CZBK.ItcastOA\CZBK.ItcastOA.Common\bin\Debug\Memcached.ClientLibrary.dll
+E:\2015-06-29 OA项目第六天\CZBK.ItcastOA\CZBK.ItcastOA.Common\bin\Debug\Newtonsoft.Json.dll
+E:\2015-06-29 OA项目第六天\CZBK.ItcastOA\CZBK.ItcastOA.Common\bin\Debug\Newtonsoft.Json.xml
+E:\2015-06-29 OA项目第六天\CZBK.ItcastOA\CZBK.ItcastOA.Common\obj\Debug\CZBK.ItcastOA.Common.csprojResolveAssemblyReference.cache
+E:\2015-06-29 OA项目第六天\CZBK.ItcastOA\CZBK.ItcastOA.Common\obj\Debug\CZBK.ItcastOA.Common.dll
+E:\2015-06-29 OA项目第六天\CZBK.ItcastOA\CZBK.ItcastOA.Common\obj\Debug\CZBK.ItcastOA.Common.pdb
