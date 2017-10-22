@@ -1,0 +1,91 @@
+一：在Asp.net MVC中应该怎样使用Spring.Net?
+1:先导入dll文件。
+2:将案例中的Config文件夹拷贝到项目中。
+3：修改Config文件夹中的相关的配置信息。
+4：修改Web.config文件中的配置。
+5：可以将Config/controllers.xml文件中的配置信息分离（可以将控制器的配置与业务类的配置分离。）注意web.config文件中也要修改一下。
+6：修改Global文件.继承SpringMvcApplication 
+
+二：异常处理。
+1：捕获异常
+在Asp.net MVC中提供了一个全局的异常处理的过滤器：HandleErrorAttribute，可以通过该过滤器捕获异常信息。
+
+需要在Global文件中调用的RegisterGlobalFilters方法中完成自己定义异常处理过滤的注册。
+
+public class FilterConfig
+    {
+        public static void RegisterGlobalFilters(GlobalFilterCollection filters)
+        {
+           // filters.Add(new HandleErrorAttribute());
+            filters.Add(new MyExceptionAttribute());
+        }
+    }
+
+	捕获异常信息。
+	 public class MyExceptionAttribute : HandleErrorAttribute
+    {
+        /// <summary>
+        /// 可以捕获异常数据
+        /// </summary>
+        /// <param name="filterContext"></param>
+        public override void OnException(ExceptionContext filterContext)
+        {
+            base.OnException(filterContext);
+            Exception ex = filterContext.Exception;
+            //写到日志中.多个线程同时操作一个文件，造成文件的并发。
+        }
+    }
+	1：加锁。
+	
+	
+2：将异常信息写到日志。
+ public static Queue<Exception> ExecptionQueue = new Queue<Exception>();
+        /// <summary>
+        /// 可以捕获异常数据
+        /// </summary>
+        /// <param name="filterContext"></param>
+        public override void OnException(ExceptionContext filterContext)
+        {
+            base.OnException(filterContext);
+            Exception ex = filterContext.Exception;
+            //写到队列
+            ExecptionQueue.Enqueue(ex);
+            //跳转到错误页面.
+            filterContext.HttpContext.Response.Redirect("/Error.html");
+        }
+		
+		注意在Global文件中的Application_Start方法中开启一个线程。
+		
+		  ThreadPool.QueueUserWorkItem((a) => {
+                while (true)
+                {
+                    //判断一下队列中是否有数据
+                    if (MyExceptionAttribute.ExecptionQueue.Count() > 0)
+                    {
+                        Exception ex=MyExceptionAttribute.ExecptionQueue.Dequeue();
+                        if (ex != null)
+                        {
+                            //将异常信息写到日志文件中。
+                            //string fileName = DateTime.Now.ToString("yyyy-MM-dd");
+                            //File.AppendAllText(filePath+fileName+".txt",ex.ToString(),System.Text.Encoding.UTF8);
+                            ILog logger = LogManager.GetLogger("errorMsg");
+                            logger.Error(ex.ToString());
+                        }
+                        else
+                        {
+                            //如果队列中没有数据，休息
+                            Thread.Sleep(3000);
+                        }
+                    }
+                    else
+                    {
+                        //如果队列中没有数据，休息
+                        Thread.Sleep(3000);
+                    }
+                }
+            
+            
+            },filePath);
+
+
+3：跳转到错误页面。
