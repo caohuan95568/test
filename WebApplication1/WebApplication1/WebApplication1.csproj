@@ -66,6 +66,7 @@
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Data" />
+    <Reference Include="System.Data.Entity" />
     <Reference Include="System.Drawing" />
     <Reference Include="System.Runtime.Serialization" />
     <Reference Include="System.Security" />
@@ -182,14 +183,21 @@
     <Compile Include="BLL\ApplicationSignInManager.cs" />
     <Compile Include="BLL\ApplicationUserManager.cs" />
     <Compile Include="Controllers\AccountController.cs" />
+    <Compile Include="Controllers\Class1.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="C__MigrationHistory.cs">
       <DependentUpon>Model2.tt</DependentUpon>
     </Compile>
     <Compile Include="DAL\ApplicationDbContext.cs" />
+    <Compile Include="DAL\DaseDal.cs" />
+    <Compile Include="DAL\DBContextFactory.cs" />
+    <Compile Include="DAL\UserInfoDal.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="IBLL\IBaseService.cs" />
+    <Compile Include="IDAL\IBaseDal.cs" />
+    <Compile Include="IDAL\IDBSession.cs" />
     <Compile Include="Model1.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>

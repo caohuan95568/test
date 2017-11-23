@@ -53,3 +53,6 @@ C:\Users\lenovo\Desktop\WebApplication1\WebApplication1\bin\Microsoft.Owin.Secur
 C:\Users\lenovo\Desktop\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
 C:\Users\lenovo\Desktop\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
 C:\Users\lenovo\Desktop\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\lenovo\Desktop\CZBK.ItcastOA\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\CZBK.ItcastOA\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\lenovo\Desktop\CZBK.ItcastOA\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
